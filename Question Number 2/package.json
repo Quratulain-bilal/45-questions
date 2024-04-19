@@ -1,0 +1,12 @@
+{
+  "name": "question-number-one",
+  "version": "1.0.0",
+  "description": "question number one",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quratulain",
+  "license": "MIT"
+}
